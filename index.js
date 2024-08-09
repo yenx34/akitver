@@ -1,1 +1,3 @@
-const akiter = () => {}
+const akiter = () => {
+  const text = 'akiter';
+}
