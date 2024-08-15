@@ -1,4 +1,5 @@
 const akiter = () => {
-  const text = 'akiter';
+  let text = 'akiter';
+  text += ' is';
   return text;
 }
