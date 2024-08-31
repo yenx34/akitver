@@ -3,5 +3,6 @@ const akiter = () => {
   text += ' is';
   text += ' a';
   text += ' good'
+  text += ' tool'
   return text;
 }
